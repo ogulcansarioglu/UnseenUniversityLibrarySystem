@@ -1,0 +1,25 @@
+Book,The Light Fantastic,Terry Pretchett,280,Edition 2,Emperium,50,101
+Book,I Feel Bad About My Neck,Nora Ephron,160,Edition 1,Epsilon,50,102
+Book,Broken Glass,Alain Mabanckou,180,Edition 1,Metis,50,103
+Book,The Girl With the Dragon Tattoo,Stieg Larsson,480,Edition 1,Clockwork,50,104
+Book,Light,M John Harrison,320,Edition 1,CMDS,50,105
+Book,A Natural History of Dragons,Marie Brennan,351,Edition 4,Titan Books,50,114
+Book,The Girl Who Drank the Moon,Kelly Barnhill,386,Edition 1,Algonquin Young Readers,50,119
+Book,The Cat Who Saved Books,Sosuke Natsukawa,224,Edition 1,Picador,50,120
+Book,Rule of Wolves,Leigh Bardugo,592,Edition 11, Imprint,50,121
+Article,Spacing Allocation Method for Vehicular Platoon: A Cooperative Game Theory Approach,Yang Liu,MDPI AG,Vol. 10,106
+Article,Embodied science and mixed reality: How gesture and motion capture affect physics education,Johnson-Glenberg,SpringerOpen,Vol. 2,107
+Article,Effects of electro-fishing on galvano-taxis and carcass quality characteristics in sea bass,Antonella Stravisi,Taylor & Francis Group,Vol. 8,108
+Article,Formation of Investment Behavior Strategy using the Game-theoretic Method,Andrey Zaytsev,UIKTEN,Vol. 10,109
+Article,The Religion of Ethical Veganism,Lisa Johnson,Journal of Animal Ethics,Vol. 5,115
+Article,Dairy’s Monopoly on Words: the Historical Context and Implications of the TofuTown Decision,Barbara Bolton,European Food and Feed Law Review,Vol. 12,116
+Article,Veganism, Normative Change, and Second Nature,Simon Lumsden,Environmental Philosophy,Vol. 14,117
+Article,The Sustainable Sites Intiative: Two botanic gardens partnering toward sustainable landscapes,Ray Mims,BGjournal,Vol. 6,118
+Digital Media,The Vanishing Half,Brit Bennett,EBOOK,Kindle Book/OverDrive Read/EPUB ebook,110
+Digital Media,Educated,Tara Westover,EBOOK,Kindle Book/OverDrive Read/EPUB ebook,111
+Digital Media, Harry Potter and Philosopher's Stone, DVD,112
+Digital Media,American Gods,Neil Gaiman,EBOOK,113
+
+Book,The Rabbit,Ogulcan Sarioglu,27
+Book,Admin,Admin,27
+Book,Admin,Admin,25
